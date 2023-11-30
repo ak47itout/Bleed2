@@ -1,7 +1,7 @@
-##Bleed
+## Bleed
 Designed a community for women to discuss their health and hygiene related queries.
 Employed ReactJs and ChartJs to develop the front end.
-##Concept Project
+## Concept Project
 Any suggestions are welcome
 akshay.malhotra.eee20@itbhu.ac.in
 
